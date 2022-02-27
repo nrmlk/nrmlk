@@ -1,3 +1,3 @@
-```python3
-print("hello, world")
+```rust
+println!("hello, world");
 ```
